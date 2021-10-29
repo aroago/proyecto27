@@ -6,3 +6,4 @@ proyecto de prueba para trastear con el.
 * php7.4
 * MySQL 8.0
 * Xdebug 2.9
+* PHP MyAdmin
